@@ -1,0 +1,155 @@
+{
+    "common": {
+        "weight": 0.50,
+        "items": [
+            {
+                "name": "Gold",
+                "quantities": "25-35",
+                "weight": 0.70
+            },
+            {
+                "name": "Cape of Billowing",
+                "quantities": "1-2",
+                "weight": 0.15
+            },
+            {
+                "name": "Medal of the Meat Pie",
+                "quantities": 1,
+                "weight": 0.07
+            },
+            {
+                "name": "Clockwork Amulet",
+                "quantities": 1,
+                "weight": 0.05
+            },
+            {
+                "name": "Hat of Wizardy",
+                "quantities": 1,
+                "weight": 0.03
+            }
+        ]
+    },
+    "uncommon": {
+        "weight": 0.25,
+        "items": [
+            {
+                "name": "Gold",
+                "quantities": "36-65",
+                "weight": 0.70
+            },
+            {
+                "name": "+1 Greatsword",
+                "quantities": "1-2",
+                "weight": 0.15
+            },
+            {
+                "name": "+1 Bloodwell Vial",
+                "quantities": 1,
+                "weight": 0.07
+            },
+            {
+                "name": "Scroll of Find Familiar",
+                "quantities": 1,
+                "weight": 0.05
+            },
+            {
+                "name": "+1 Arcane Grimore",
+                "quantities": 1,
+                "weight": 0.03
+            }
+        ]
+    },
+    "rare": {
+        "weight": 0.15,
+        "items": [
+            {
+                "name": "Gold",
+                "quantities": "65-120",
+                "weight": 0.70
+            },
+            {
+                "name": "+2 Breastplate",
+                "quantities": "1-2",
+                "weight": 0.15
+            },
+            {
+                "name": "+2 Rapier",
+                "quantities": 1,
+                "weight": 0.07
+            },
+            {
+                "name": "Scroll of Invisbility",
+                "quantities": 1,
+                "weight": 0.05
+            },
+            {
+                "name": "+2 Arcane Grimore",
+                "quantities": 1,
+                "weight": 0.03
+            }
+        ]
+
+    },
+    "very-rare": {
+        "weight": 0.07,
+        "items": [
+            {
+                "name": "Gold",
+                "quantities": "121-420",
+                "weight": 0.70
+            },
+            {
+                "name": "+3 Greatsword",
+                "quantities": "1-2",
+                "weight": 0.15
+            },
+            {
+                "name": "+3 Longsword",
+                "quantities": 1,
+                "weight": 0.07
+            },
+            {
+                "name": "Scroll of Hold Monster",
+                "quantities": 1,
+                "weight": 0.05
+            },
+            {
+                "name": "Flame Tongue",
+                "quantities": 1,
+                "weight": 0.03
+            }
+        ]
+
+    },
+    "legendary": {
+        "weight": 0.03,
+        "items": [
+            {
+                "name": "Gold",
+                "quantities": "421-679",
+                "weight": 0.70
+            },
+            {
+                "name": "The Amulet of Pure Good",
+                "quantities": "1-2",
+                "weight": 0.15
+            },
+            {
+                "name": "Powered Armor",
+                "quantities": 1,
+                "weight": 0.07
+            },
+            {
+                "name": "Scroll of Summon Greater Steed",
+                "quantities": 1,
+                "weight": 0.05
+            },
+            {
+                "name": "Ring of Three Wishes",
+                "quantities": 1,
+                "weight": 0.03
+            }
+        ]
+
+    }
+}
